@@ -1,0 +1,10 @@
+School Management App
+Students
+  Student Portal
+Teachers
+  Teachers Portal
+Registration
+  Student Registration
+Examination Result Checker
+  Student Result Checker
+
